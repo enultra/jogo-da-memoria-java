@@ -11,12 +11,6 @@ Este é um jogo da memória desenvolvido em **Java puro**, utilizando **Swing** 
 5. Você terá 45 segundos para encontrar todos os pares.
 6. Clique no botão **Iniciar** para começar o jogo.
 
-## Como executar no VSCode
-
-1. Certifique-se de que o **Java** está instalado na sua máquina.
-2. Abra o VSCode e instale a extensão **"Java Extension Pack"** da Microsoft.
-3. Abra a pasta do projeto no VSCode.
-4. Compile e execute o arquivo `InterfaceMain.java`.
 
 ## Estrutura do projeto
 
